@@ -1,0 +1,9 @@
+#object class names
+names:
+    0: quinoa seed
+    1: chia seed
+
+# dataset directory
+path: /Users/vk2302/Desktop/dataset
+train: images/train
+val: images/val
